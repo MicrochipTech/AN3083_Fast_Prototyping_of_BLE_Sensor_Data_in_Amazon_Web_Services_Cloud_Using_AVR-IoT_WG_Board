@@ -1,6 +1,6 @@
 (AN3083) Fast Prototyping of BLE Sensor Data in Amazon Web Services Cloud Using AVR-IoT WG Board
 ===
-http://ww1.microchip.com/downloads/en/AppNotes/Fast-Prototyping-of-BLE-Sensors-in-AWS-Cloud-Using-AVR-IoT-Development-Boards-00003083A.pdf?fbclid=IwAR1-7oaOAMQtBhnmjDPGQoIkzx6CSVN5pqVLGLqTXRRiWdD0rXv4HswMmEg
+http://ww1.microchip.com/downloads/en/AppNotes/Fast-Prototyping-of-BLE-Sensors-in-AWS-Cloud-Using-AVR-IoT-Development-Boards-00003083A.pdf
 
 This repository contains the project source code for the AVR-IoT WG Development Board 
 together with the Lambda used by the gateway to read characteristics and publish 
